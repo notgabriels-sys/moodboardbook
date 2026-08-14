@@ -1,0 +1,23 @@
+[board]
+title = "Example visual direction"
+project = "Example Artist"
+purpose = "Fictional creative-reference review."
+requirements_basis = "Fictional local sources; check rights, context, and project relevance directly."
+
+[layout]
+columns = 2
+board_width_px = 1600
+
+[[tiles]]
+position = 1
+id = "grain"
+image = "grain.png"
+label = "Surface"
+note = "A fictional note about pressure, material, and negative space."
+
+[[tiles]]
+position = 2
+id = "light"
+image = "light.png"
+label = "Signal"
+note = "A fictional note about contrast and an isolated accent."
